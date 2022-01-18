@@ -8,7 +8,7 @@ The output looks similar:
 ```
 python3 csm_object.py
 Login: 
-CSM login was succesful.
+CSM login was successful.
 Device Config: 
 Device IP:10.1.2.3
 Device Config:access-list cached ACL log flows: total 0, denied 0 (deny-flow-max 4096)
