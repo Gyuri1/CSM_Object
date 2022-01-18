@@ -6,7 +6,7 @@ The output looks similar:
 
 
 ```
-python3 csm_object4.py
+python3 csm_object.py
 Login: 
 CSM login was succesful.
 Device Config: 
