@@ -4,8 +4,8 @@ This script creates and reads an object in CSM.
 
 The output looks similar:  
 
-"""
 
+```
 python3 csm_object4.py
 Login: 
 CSM login was succesful.
@@ -39,4 +39,4 @@ name:27_NO_12
                                                                                 
 Logout ...
 Logout was successful.
-"""
+```
