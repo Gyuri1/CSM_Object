@@ -37,7 +37,7 @@ response = session.post(url+'login', data=data, headers=headers, verify=False)
 
 #Login was successful
 if response.status_code == 200:
-  print("CSM login was succesful.")
+  print("CSM login was successful.")
 
 
   print("Device Config: ")
