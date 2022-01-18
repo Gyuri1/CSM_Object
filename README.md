@@ -2,6 +2,10 @@
 
 This script creates and reads an object in CSM.  
 
+More info:
+https://www.cisco.com/c/en/us/support/docs/security/security-manager/216550-extract-acl-from-csm-in-csv-format-throu.html
+
+
 The output looks similar:  
 
 
